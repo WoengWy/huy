@@ -1,17 +1,17 @@
 ### Hi there, I'm [Ohidur Rahman Bappy!](https://www.ohidur.com) 👋
-<a href="https://discord.gg/6uvgmNa">
+<a href="">
   <img align="left" alt="Ohidur N Friends Discord Server" width="16px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/discord.svg" />
 </a>
-<a href="https://twitter.com/ohidurbappy">
+<a href="">
   <img align="left" alt="Ohidur Rahman Bappy's Twitter" width="16px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
 </a>
-<a href="https://github.com/ohidurbappy">
+<a href="https://github.com/woengwy">
   <img align="left" alt="Ohidur Rahman Bappy's Github" width="16px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/github.svg" />
 </a>
-<a href="https://instagram.com/ohidurbappy/">
+<a href="https://instagram.com/hoanghuy.24/">
   <img align="left" alt="Ohidur Rahman Bappy's Instagram" width="16px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />
 </a>
-<a href="https://www.facebook.com/ohidurbappy/">
+<a href="https://www.facebook.com/204.url/">
   <img align="left" alt="Ohidur Rahman Bappy's Facebook" width="16px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/facebook.svg" />
 </a>
 <br/>
