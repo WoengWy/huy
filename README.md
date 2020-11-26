@@ -17,7 +17,7 @@
 <br/>
 
 
-## I ❤️ Memes | A rand() memes for you :p
+## I ❤️ Memes | A rand memes for you :p
 
 <img alt="Random Memes" height="250px" src="https://www.ohidur.com/memes/random.jpg?_n=4">
 
