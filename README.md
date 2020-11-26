@@ -16,9 +16,6 @@
 </a>
 <br/>
 
-<p>
-  Scripting, Tweaking, Designing and a few more topics of interest.
-</p>
 
 ## I ❤️ Memes | A rand() memes for you :p
 
